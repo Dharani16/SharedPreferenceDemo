@@ -141,10 +141,10 @@
 
     <TextView
         android:id="@+id/textView_display"
-        android:layout_width="358dp"
-        android:layout_height="23dp"
-        android:text="result"
+        android:layout_width="355dp"
+        android:layout_height="99dp"
         android:textSize="16sp"
+        android:textColor="#123"
         tools:layout_constraintTop_creator="1"
         tools:layout_constraintBottom_creator="1"
         android:layout_marginStart="16dp"
@@ -154,7 +154,7 @@
         tools:layout_constraintLeft_creator="1"
         android:layout_marginBottom="41dp"
         app:layout_constraintLeft_toLeftOf="parent"
-        android:layout_marginLeft="16dp"
-        app:layout_constraintVertical_bias="0.0" />
+        android:layout_marginLeft="15dp"
+        app:layout_constraintVertical_bias="0.421" />
 
 </android.support.constraint.ConstraintLayout>
